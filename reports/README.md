@@ -8,5 +8,4 @@
 - [Танкаева О.Э](tankaeva.md)
 - [Махмадзиеев А.О](makhmadziyoev.md)
 - [Леснова Л.В.](lesnova.md)
--
--
+- [Великанов И.В](velikanov.md)
